@@ -1,5 +1,4 @@
-//name - Atharva Satavi 
-//PRN - 2301106116
+//code about generating a 56 bit key which is generated in PC-1 stage of key creation for DES algorithm 
 
 #include <iostream>
 #include <bitset>
